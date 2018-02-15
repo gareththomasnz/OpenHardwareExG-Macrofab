@@ -1,0 +1,28 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(2018-02-14 revision 6afdf1cf8)-makepkg*
+G04 #@! TF.CreationDate,2018-02-15T17:48:32+13:00*
+G04 #@! TF.ProjectId,patch-shield-analog,70617463682D736869656C642D616E61,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (2018-02-14 revision 6afdf1cf8)-makepkg) date 02/15/18 17:48:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,0.584200X1.092200*%
+%ADD11R,0.746760X0.746760*%
+%ADD12C,0.949960*%
+G04 APERTURE END LIST*
+D10*
+X40513000Y-54610000D03*
+X42037000Y-54610000D03*
+D11*
+X42024300Y-51435000D03*
+X40525700Y-51435000D03*
+D12*
+X62499240Y-112499140D03*
+X62499240Y-57500520D03*
+X222498920Y-57500520D03*
+M02*
